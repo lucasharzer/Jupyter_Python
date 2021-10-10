@@ -1,5 +1,7 @@
 # Projetos com a linguagem Python no Jupyter Notebook
 
+Obs: os arquivos .mp3 são músicas quaisquer baixadas e nomeadas
+
  - Resultado do Projeto
  
  <span>
